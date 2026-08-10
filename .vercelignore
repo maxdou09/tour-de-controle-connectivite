@@ -1,0 +1,8 @@
+node_modules
+npm_install_verbose.log
+push-to-github.js
+setup-deploy.js
+setup-deploy.ps1
+deploy.js
+.git
+.gitignore
