@@ -3,11 +3,11 @@
   "outputDirectory": "dist",
   "installCommand": "npm ci",
   "framework": "vite",
-  "nodeVersion": "20.x",
+  "nodeVersion": "18.x",
   "env": {
     "CI": "true"
   },
-  "regions": ["cdg1", "iad1"],
+  "regions": ["cdg1", "iad1", "sfo1"],
   "headers": [
     {
       "source": "/assets/(.*)",
